@@ -1,5 +1,7 @@
 freedomsponsors-trac-plugin
 
+![SponsorThis](https://raw.github.com/iurisilvio/freedomsponsors-trac-plugin/master/screenshot.png)
+
 This is the FreedomSponsors "SponsorThis" plugin for Trac.
 
 When installed, it will add a "Sponsor this" link in context navigation bar on your Trac's ticket view. The link leads to a FreedomSponsors page where the user can place a bounty for that ticket.
